@@ -1,0 +1,19 @@
+name: altair
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - mamba
+  - python=3.8
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - jupyter
+  - altair
+  - ca-certificates
+  - certifi
+  - openssl
+  - vega_datasets
+  - vega
+prefix: /Users/benjamincross/miniconda3/envs/altair
