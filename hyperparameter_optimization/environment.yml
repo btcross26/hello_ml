@@ -1,0 +1,21 @@
+name: skopt
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - mamba
+  - lightgbm
+  - scikit-optimize
+  - scikit-learn
+  - pandas
+  - numpy
+  - scipy
+  - matplotlib
+  - ca-certificates
+  - certifi
+  - openssl
+  - ipykernel
+  - jupyter
+  - optuna
+prefix: /Users/benjamincross/miniconda3/envs/skopt
