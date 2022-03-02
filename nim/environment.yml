@@ -1,0 +1,15 @@
+name: nim_ml
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - mamba
+  - nim
+  - numpy
+  - scikit-learn
+  - ca-certificates
+  - certifi
+  - openssl
+  - jupyter
+prefix: /Users/benjamincross/miniconda3/envs/nim_ml
