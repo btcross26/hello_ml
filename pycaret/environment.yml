@@ -1,0 +1,22 @@
+name: pycaret
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - mamba
+  - python=3.8
+  - numpy
+  - pandas
+  - matplotlib
+  - jupyter
+  - pycaret
+  - ca-certificates
+  - certifi
+  - openssl
+  - explainerdashboard
+  - autoviz
+  - fastapi
+  - uvicorn
+  - evidently
+  - catboost
+prefix: /Users/benjamincross/miniconda3/envs/pycaret
